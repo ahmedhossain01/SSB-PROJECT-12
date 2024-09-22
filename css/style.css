@@ -1,0 +1,19 @@
+.img{
+	padding: 50px 0;
+}
+.container{
+	margin: 0 auto;
+	width: 960px;
+/*	border: 1px solid red;*/
+	overflow: hidden;
+	box-sizing: border-box;
+}
+.item{
+	box-sizing: border-box;
+	padding: 3px 3px; 
+	width: 25%;
+	float: left;
+}
+.item img{
+	width: 100%;
+}
